@@ -1,1 +1,1 @@
-# Predict_Heart_Disease
+This project demonstrates the process of training and evaluating a Random Forest classifier on a given dataset. It includes steps such as uploading and preprocessing the data, splitting it into training and testing sets, and scaling the features. The model is trained on the data, and its performance is evaluated using metrics like accuracy, precision, and recall. A confusion matrix is also visualized to assess the model's classification performance, providing insights into true positives, false positives, and other key metrics.
